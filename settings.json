@@ -1,0 +1,15 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.quickSuggestions": { "other": true, "comments": false, "strings": true },
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.pythonPath": "C:\\Program Files\\Python37\\python.exe",
+    // "python.linting.pylintArgs": ["--disable=W,C,E"],
+    "python.jediEnabled": true,
+    "workbench.colorTheme": "Monokai",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+}
