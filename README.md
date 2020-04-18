@@ -1,1 +1,3 @@
-# vscode_settings
+# settings
+vscode
+zsh
